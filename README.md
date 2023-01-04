@@ -1,3 +1,3 @@
 # Ping 🔴
 
-Never wonder wether you friends read your messages again.
+Never wonder wether your friends read your messages again. Send your friends loud and visible notifications!
