@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
       <main className="m-2 p-4">
         <h1 className="font-bold text-red-400 text-center text-3xl">Welcome To Ping!</h1>
-        <p className="text-center my-6 font-bold text-red-900">This is a WIP</p>
+        <p className="text-center my-6 font-bold text-red-900">Dev Changes On This Branch</p>
       </main>
     </>
   )
