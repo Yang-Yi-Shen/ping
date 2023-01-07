@@ -1,4 +1,5 @@
 import Head from "next/head"
+import Hero from "../components/Hero"
 export default function Home() {
   return (
     <>
@@ -8,8 +9,18 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main className="m-2 p-4">
-        <h1 className="font-bold text-red-400 text-center text-3xl">Welcome To Ping!</h1>
-        <p className="text-center my-6 font-bold text-red-900">Dev Changes On This Branch</p>
+        <Hero
+          title={"Are Your Friends Recieving Your Messages?"}
+          description={"Well Now You You Can Know! With Ping You Can Always See When The Message Was Sent And Read. You Can Also Make Sure They Read It By Force Pinging Them!"}
+          // imgSrc={"https://img.freepik.com/premium-photo/3d-turn-comment-notification-graphic-illustration-icon-red-purp-blue_517064-301.jpg?w=2000"}
+          imgSrc={"https://www.creativefabrica.com/wp-content/uploads/2021/11/11/Alert-message-mobile-notification-Graphics-20027372-1.jpg"}
+          imgAlt={"A Notification Graphic"}
+          variant={"img"}
+          primaryBtn={"Get Started"}
+          primaryBtnLink={"/signup"}
+          secondaryBtn={"Learn More"}
+          secondaryBtnLink={"/about"}
+        />
       </main>
     </>
   )
