@@ -16,4 +16,6 @@ The repository is kind of empty right now, but expect to see some progress by Sa
 
 - [ ] Push notifications
 - [ ] Database
-- [ ] Add people to contacts
+- [ ] Add to contacts
+
+NOTE: Tasks for front end are assumed.
