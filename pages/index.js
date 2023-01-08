@@ -12,9 +12,7 @@ export default function Home() {
         <Hero
           title={"Are Your Friends Recieving Your Messages?"}
           description={"Well Now You You Can Know! With Ping You Can Always See When The Message Was Sent And Read. You Can Also Make Sure They Read It By Force Pinging Them!"}
-          // imgSrc={"https://img.freepik.com/premium-photo/3d-turn-comment-notification-graphic-illustration-icon-red-purp-blue_517064-301.jpg?w=2000"}
-          imgSrc={"https://www.creativefabrica.com/wp-content/uploads/2021/11/11/Alert-message-mobile-notification-Graphics-20027372-1.jpg"}
-          imgAlt={"A Notification Graphic"}
+          imgSrc={"https://img.freepik.com/premium-photo/3d-turn-comment-notification-graphic-illustration-icon-red-purp-blue_517064-301.jpg?w=2000"}
           variant={"img"}
           primaryBtn={"Get Started"}
           primaryBtnLink={"/signup"}
