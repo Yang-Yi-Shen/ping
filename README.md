@@ -14,4 +14,5 @@ Wonder wether your friend's online, or wether they've received your message? Sen
 
 - [ ] Push notifications
 - [ ] Database
+- [ ] User authentication
 - [ ] Add people to contacts
