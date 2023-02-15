@@ -19,3 +19,5 @@ The repository is kind of empty right now, but expect to see some progress by Sa
 - [ ] Add to contacts
 
 NOTE: Tasks for front end are assumed.
+
+![ping](https://socialify.git.ci/Yang-Yi-Shen/ping/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&theme=Light)
